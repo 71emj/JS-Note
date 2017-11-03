@@ -1,6 +1,6 @@
 # The difference between: 
 <b>var myVariable = Myfunction;</b><br>
-<b>v.s.</b><br>
+<em>v.s.</em><br>
 <b>var myVariable = Myfunction();</b>
 
 <br>
