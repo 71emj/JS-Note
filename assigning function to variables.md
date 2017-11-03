@@ -1,4 +1,4 @@
-# The difference between assigning Function to a Variable and assigning the value of a Function to a Variable
+# Difference between assigning Function to a Variable vs assigning the "value" of a Function to a Variable
 <b>var myVariable = Myfunction;</b><br>
 <b><em>v.s.</em></b><br>
 <b>var myVariable = Myfunction();</b>
