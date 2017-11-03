@@ -28,7 +28,7 @@ What javascript did on the example above is assigning the value of x inside the 
 
 <br>
 
-#in JS function call is follow by a parenthesis: Myfunction();
+#In JS function call is follow by a parenthesis: Myfunction();
 
 <em>by simply calling a function name without a parenthesis: Myfunction;</em><br>
 <em>it's the same as calling a variable in an empty place: myVariable;</em><br>
