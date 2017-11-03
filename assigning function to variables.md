@@ -38,6 +38,7 @@ What javascript did on the example above is assigning the value of x inside the 
 
 #So, var myVariable = Myfunction; is actually assigning the Myfunction to myVariable
 <br>
+
 #same with function expression// var MyAnotherfunction = function() { ... };
 
 <br><strong>So to sum up: </strong><br>
