@@ -4,7 +4,6 @@
 <b>var myVariable = Myfunction();</b>
 
 <br>
-<br>
 
 <strong><em>For example: </em></strong> 
 <pre>
