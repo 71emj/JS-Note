@@ -15,7 +15,7 @@
 
 	var unRelated_X = Myfunction();
 
-	console.log(unRelated_X); // unRelated_X
+	console.log(unRelated_X); // x
 </pre><br>
 
 What javascript did on the example above is assigning the value of x inside the function to a variable unRelated_X, to simplify the process the snippets is doing something like this: 
