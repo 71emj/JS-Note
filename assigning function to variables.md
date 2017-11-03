@@ -1,4 +1,6 @@
-# The difference between var myVariable = Myfunction; and var myVariable = Myfunction();
+# The difference between: 
+# var myVariable = Myfunction;  
+# var myVariable = Myfunction();
 
 <br>
 <br>
