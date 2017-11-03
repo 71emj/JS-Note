@@ -17,9 +17,7 @@
 
 	console.log(unRelated_X); // unRelated_X
 </pre><br>
-
 what javascript did on the example above is assigning the value of x inside the function to a variable unRelated_X, to simplify the process the snippets is doing something like this: 
-
 <pre>
 	var unRelated_X = x;
 	// assigning the <em>return </em>value of the function is the same as assigning a literal value to a variable.
